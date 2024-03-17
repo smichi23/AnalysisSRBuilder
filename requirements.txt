@@ -1,0 +1,3 @@
+setuptools
+pydicom
+git+https://gitlab.chudequebec.ca/sam23/dicom-sr-builder.git@python_3_12_support
